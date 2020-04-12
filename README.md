@@ -6,7 +6,7 @@ Some useful <b>userbot</b> commands with <a href='https://docs.madelineproto.xyz
 
 These <b>commands</b> can only be used with an <b>active</b> <a href='https://docs.madelineproto.xyz/docs/CREATING_A_CLIENT.html' target='_blank'>MadelineProto session</a> on your <b>userbot</b>.<br/>
 They should do what they <b>were programmed for</b>, <b>without problems!</b><br/><br/>
-Inside <b>the code</b> I used some <b>MadelineProto updates</b> instead of <b>variables</b> like $msg (message_text) or $msgid (message_id).<br/>
+Inside <b>the code</b> I used some <b>MadelineProto updates</b> instead of <b>variables</b> like ```$msg``` (message_text) or ```$msgid``` (message_id).<br/>
 To get the <a href='https://core.telegram.org/bots/api#chat' target='_blank'>chat_id</a> I have written the variable ```$chatID``` that you <b>must have declared</b> to let the <b>code works</b> (<i>or just replace it</i>). 
 
 ## ⚙️ Requirements
