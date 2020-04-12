@@ -20,8 +20,8 @@ You will find the <b>code</b> <a href='Commands'>here</a>.
 
 ## 🔗 Useful Links
 <ul>
-  <li><a href='t.me/zKeGod' target='_blank'>Me</a></li>
-  <li><a href='t.me/GoddeHouse' target='_blank'>Channel</a></li>
+  <li><a href='https://t.me/zKeGod' target='_blank'>Me</a></li>
+  <li><a href='https://t.me/GoddeHouse' target='_blank'>Channel</a></li>
 </ul>
 
 ## ⚠️ Disclaimer 
