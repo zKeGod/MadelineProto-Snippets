@@ -12,7 +12,7 @@ To get the <a href='https://core.telegram.org/bots/api#chat' target='_blank'>cha
 ## ⚙️ Requirements
 <ul>
   <li><a href='https://www.php.net/downloads.php' target='_blank'>PHP 7.4</a> (+)</li>
-  <li><a href='https://docs.madelineproto.xyz/docs/ASYNC.html' target='_blank'>MadelineProto Async</a></li>
+  <li><a href='https://docs.madelineproto.xyz/docs/ASYNC.html' target='_blank'>MadelineProto Async Version</a></li>
 </ul>
 
 ## ⌨️ Code
