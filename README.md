@@ -1,6 +1,6 @@
 ## 📚 MadelineProto Snippets
 
-Some useful <b>userbot</b> commands with <a href='docs.madelineproto.xyz' target='_blank'>MadelineProto</a>
+Some useful <b>userbot</b> commands with <a href='https://docs.madelineproto.xyz' target='_blank'>MadelineProto</a>
 
 ## 💡 Informations
 
