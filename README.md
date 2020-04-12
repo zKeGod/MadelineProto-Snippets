@@ -25,5 +25,7 @@ You will find the <b>code</b> <a href='Commands'>here</a>.
 </ul>
 
 ## ⚠️ Disclaimer 
-I am <b>NOT</b> responsible for the actions you <b>perform</b> with the <b>following commands</b>. In case of (<b>non-technical</b>) problems with use, you <b>will not be helped!!</b><br>
-I <b>won't</b> teach you how to install it or how to program. I will only help you in case of problems with the useI will <b>NOT</b> teach to you how to 
+<ul>
+  <li>I am <b>NOT</b> responsible for the actions you <b>perform</b> with the <b>following commands</b>. In case of (<b>non-technical</b>) problems with use, you <b>will not be helped!!</b></li>
+  <li>I <b>won't</b> teach you how to install it or how to program. I will only help you in case of problems with the useI will <b>NOT</b> teach to you how to</li>
+</ul>
