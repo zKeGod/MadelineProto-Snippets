@@ -16,12 +16,12 @@ if (strpos($update['message']['message'], 'newchannel')===+1 and in_array($updat
         $title = explode(' ', $update['message']['message'], 2)[1];
     }
     try {
-        $group = yield $MadelineProto->channels->createChannel(['broadcast' => true, 'title' => $title, 'about' => '']);
+        $channel = yield $MadelineProto->channels->createChannel(['broadcast' => true, 'title' => $title, 'about' => '']);
         $text = "➕ <b>New Channel Created</b>";
         $text .= "\n💭 <b>Title:</b> ".htmlspecialchars($title);
-        if (isset($group['updates'][1]['channel_id'])) {
+        if (isset($channel['updates'][1]['channel_id'])) {
             try {
-                $link = yield $MadelineProto->messages->exportChatInvite(['peer' => '-100'.$group['updates'][1]['channel_id']])['link'];
+                $link = yield $MadelineProto->messages->exportChatInvite(['peer' => '-100'.$channel['updates'][1]['channel_id']])['link'];
             } catch (Exception $e) {
             }
             if ($link) {
