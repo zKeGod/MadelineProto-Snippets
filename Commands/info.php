@@ -44,9 +44,9 @@ if (strpos($update['message']['message'], 'info')===+1 and in_array($update['mes
     $text = "🔎 <b>User's Information</b>";
     $text .= "\n\n  • 💭 <b>Name:</b> <code>".htmlspecialchars($getInfo['first_name'])."</code>";
     if (isset($getInfo['last_name'])) {
-        $text .= "\n  • 🏷 <b>Last Name:</b> <code>".$getInfo['last_name']."</code>";
+        $text .= "\n  • 🏷 <b>Last Name:</b> <code>".htmlspecialchars($getInfo['last_name'])."</code>";
     }
-    $text .= "\n  • 💡 <b>ID:</b> <code>".htmlspecialchars($getInfo['id'])."</code>";
+    $text .= "\n  • 💡 <b>ID:</b> <code>".$getInfo['id']."</code>";
     if (isset($getInfo['username'])) {
         $text .= "\n  • ⚙️ <b>Username:</b> @".$getInfo['username'];
     }
