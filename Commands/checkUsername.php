@@ -1,11 +1,10 @@
 <?php
 
 /**
-* Use this command to get info about users
+* Use this command to check if an username is free
 * @author @zKeGod - @GoddeHouse
 *
-* Syntax: {alias}info
-* Usage: Via reply | username | ID
+* Syntax: {alias}check username
 * Alias list {/ .}
 *
 */
