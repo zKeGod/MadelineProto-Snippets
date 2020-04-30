@@ -8,6 +8,7 @@
 |[info](info.php)|Use this command to get info about users|
 |[groupCreate](groupCreate.php)|Use this command to create a new supergroup|
 |[channelCreate](channelCreate.php)|Use this command to create a new channel|
+|[checkUsername](checkUsername.php)|Use this command to check if an username is free|
 |[setPic](setPic.php)|Use this command to set a new profile pic|
 |[post](post.php)|Use this command to send a message to all chats (Channels are excluded)*|
 
